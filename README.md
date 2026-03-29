@@ -1,3 +1,4 @@
+![Web3.2-BitTime](Web3.2-BitTime.png)
 Web3.2：BitTime
 "The natural decay of value is the foundation of absolute fairness."
 
