@@ -1,4 +1,4 @@
-![Web3.2-BitTime](Web3.2-BitTime.png)
+![Web3.2-BitTime](BitTime.png)
 
 If value cannot flow (entropy change)~~ the world’s injustice will never end...
 
