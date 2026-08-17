@@ -24,7 +24,7 @@ This is a human-centered barter method (entropy-increase consensus):
 &emsp;&emsp;&emsp;&emsp;&emsp;Hu1 Hu2 Hu3&emsp;Creates&emsp;&emsp;&emsp;Entropy  
 
 3> Every transaction is humans assigning value (BT) to goods while also defining the type of value (Type: Valueless | Depreciating | Value-preserving | Appreciating | Mixed | Pre-valued) and the lifespan of the value (Life).  Therefore every commodity is a [Past–Present–Future] value line; every transaction creates new assets (Creates) for all humanity. All old and new commodities stack into total assets (Asset).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creates += BT / Humans ;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; #The newly created value is equally distributed to all human accounts  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creates += BT / Humans ;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; #newly created value is equally distributed to all human accounts  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BitTime[Life] += Entropy = BT / Humans / Life; #The entropy-flow value is equally distributed across every time segment of Life (forming the entropy-change life line of all things)  
 
 4> To prevent fake transactions from inflating assets, introduce creatable value (C) to calculate productivity (GDP):  
