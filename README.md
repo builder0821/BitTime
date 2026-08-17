@@ -40,7 +40,8 @@ This is a human-centered barter method (entropy-increase consensus):
 
 8> Summary: Everything in the world can be treated as a commodity for trading (including: conceptual, intangible, tangible items, US dollars, euros, and even human beings themselves can be commodities). Every transaction can create new value for all humanity (defined by the participants themselves). Every person is a carrier of commodity value. Without the indirect hoarding of a third-party medium there is no inflation or deflation, and the damn interest rates can therefore be ignored (conventional currencies such as the US dollar can be finely adjusted offline in the form of stablecoins according to the total issuance volume versus the GDP of their BitTime accounts)...  
    ………………  
-All resources are bound to humans. AI is only one of the resources; its ID must be bound to a human account before it has consensus rights. All account behaviors are written into the historical line and cannot be tampered with, available for others to verify,, so this is the only way to check and balance AI in the future.
+All resources are bound to humans. AI is only one of the resources; its ID must be bound to a human account before it has consensus rights. All account behaviors are written into the historical line and cannot be tampered with, available for others to verify,, so this is the only way to check and balance AI in the future.  
+
 (This project is currently being promoted by me alone, and I look forward to countless aspiring individuals joining us to move forward)
 
 
