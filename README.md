@@ -41,7 +41,7 @@ This is a human-centered barter method (entropy-increase consensus):
 8> Summary: Everything in the world can be treated as a commodity for trading (including: conceptual, intangible, tangible items, US dollars, euros, and even human beings themselves can be commodities). Every transaction can create new value for all humanity (defined by the participants themselves). Every person is a carrier of commodity value. Without the indirect hoarding of a third-party medium there is no inflation or deflation, and the damn interest rates can therefore be ignored (conventional currencies such as the US dollar can be finely adjusted offline in the form of stablecoins according to the total issuance volume versus the GDP of their BitTime accounts)...  
    ………………  
 All resources are bound to humans. AI is only one of the resources; its ID must be bound to a human account before it has consensus rights. All account behaviors are written into the historical line and cannot be tampered with, available for others to verify,, so this is the only way to check and balance AI in the future.
-
+(This project is currently being promoted by me alone, and I look forward to countless aspiring individuals joining us to move forward)
 
 
   
@@ -92,6 +92,8 @@ All resources are bound to humans. AI is only one of the resources; its ID must 
 
 8> 总结：可以将世间的一切当成商品来交易(包括: 概念的、无形的、有形的物品、美元、欧元、以及人本身都可以是商品) 每一笔交易都可以给全人类创造新价值(由参与者自行定义)，每个人都是商品价值的承载者，没有了第三方介质的间接囤积就没有通胀与通缩,也就可以忽略掉了该死的利率(常规货币如美元可以根据发行总量与其BitTime账号的GDP对标微调，以稳定币的形式线下流通)。。。  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………  
-所有资源都与人类绑定，AI只是其中资源之一，它的ID需要绑定到人类账号才有共识权，所有账号的行为写入历史线无法篡改,供别人验证，，所以这是今后唯一制衡AI的方式。
+所有资源都与人类绑定，AI只是其中资源之一，它的ID需要绑定到人类账号才有共识权，所有账号的行为写入历史线无法篡改,供别人验证，，所以这是今后唯一制衡AI的方式。  
+
+(本项目当前由我一个人推进，期待无数有志人士加盟一起前行)
 
 
