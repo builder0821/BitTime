@@ -24,8 +24,8 @@ This is a human-centered barter method (entropy-increase consensus):
 &emsp;&emsp;&emsp;&emsp;&emsp;Hu1 Hu2 Hu3&emsp;Creates&emsp;&emsp;&emsp;Entropy  
 
 3> Every transaction is humans assigning value (BT) to goods while also defining the type of value (Type: Valueless | Depreciating | Value-preserving | Appreciating | Mixed | Pre-valued) and the lifespan of the value (Life).  Therefore every commodity is a [Past–Present–Future] value line; every transaction creates new assets (Creates) for all humanity. All old and new commodities stack into total assets (Asset).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creates += BT / Humans ;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; #newly created value is equally distributed to all human accounts  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BitTime[Life] += Entropy = BT / Humans / Life; #The entropy-flow value is equally distributed across every time segment of Life (forming the entropy-change life line of all things)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creates += BT / Humans ;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; #Everyone is an issuer and carrier of currency  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BitTime[Life] += Entropy = BT / Humans / Life;&nbsp;&nbsp; #The entropy-flow value is equally distributed across every time segment of Life (forming the entropy-change life line of all things)  
 
 4> To prevent fake transactions from inflating assets, introduce creatable value (C) to calculate productivity (GDP):  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BT>GDP? {C=BT-GDP,GDP=BT} : {Asset>GDP? [Asset-GDP>BT? (C=BT,GDP+=BT) : (C=Asset-GDP,GDP+=C)] : C=0}  
@@ -76,7 +76,7 @@ All resources are bound to humans. AI is only one of the resources; its ID must 
 
 3> 每一次交易都是人类在赋予商品价值(BT) 同时也定义了商品价值的类型(Type:无值|贬值|保值|升值|混值|预值)和价值的期限(Life)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因此每个商品都是一条[过去-现在-未来]价值线，每笔交易都是在为全人类创造新资产(Creates) 所有新旧商品叠加成总资产(Asset)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creates += BT / Humans ;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  #Creates新创造的价值平分到所有人类账号  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creates += BT / Humans ;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  #每个人都是货币的发行者和承载者  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BitTime[Life] += Entropy = BT / Humans / Life ;&emsp;#Entropy流逝值平分到Life的每个时段(形成万物熵变的生命线)
 
 4> 为防止虚假交易爆刷资产，加入可创造价值(C)来统计生产力(GDP)的算法:  
